@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Bruno!;Seja+bem-vindo+ao+meu+perfil!" alt="Olá, eu sou o Bruno!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Oi%2C+eu+sou+o+Bruno!" alt="Oi, eu sou o Bruno!" />
 
 ### Estudante de Engenharia da Computação | Aprendendo na prática com projetos próprios
 
@@ -34,15 +34,15 @@ Olá! Sou o Bruno, de São Paulo, SP.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:SEU-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/Bruninxntj">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
 </div>
@@ -80,8 +80,6 @@ Olá! Sou o Bruno, de São Paulo, SP.
 <div align="center">
 
 ### ✨ "Todo grande projeto começa com o primeiro passo."
-
-**Obrigado pela visita! ❤️**
 
 </div>
 
