@@ -29,11 +29,11 @@ Meu objetivo é evoluir continuamente na área da tecnologia, expandir meus conh
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+<a href="https://www.linkedin.com/in/bruno-vieira-queiroz/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:SEU-EMAIL@gmail.com">
+<a href="mailto:brunovqx2808@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
