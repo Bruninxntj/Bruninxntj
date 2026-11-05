@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4B4B&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Oi%2C+eu+sou+o+Bruno!" alt="Oi, eu sou o Bruno!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=FF4B4B&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Bruno+Vieira" alt="👋 Bruno Vieira" />
 
-### Estudante de Engenharia da Computação | Aprendendo na prática com projetos próprios
+### Desenvolvedor de TI | Graduando em Engenharia da Computação
 
 </div>
 
@@ -15,17 +15,13 @@
 
 ## 🧭 Quem sou eu
 
-Olá! Sou o Bruno, de São Paulo, SP.
+Sou **Bruno Vieira**, tenho 22 anos e moro em São Paulo, SP. Atualmente curso **Engenharia da Computação**, com formação em **Análise e Desenvolvimento de Sistemas**.
 
-🎓 Estudante de Engenharia da Computação e formado em Análise e Desenvolvimento de Sistemas.
+Tenho grande interesse em **programação, desenvolvimento de software e inteligência artificial**, buscando aplicar meus conhecimentos em projetos próprios e desafios práticos.
 
-💻 Tenho experiência com suporte técnico e infraestrutura de TI, e grande interesse em programação e desenvolvimento de software.
+Também possuo experiência com **suporte técnico e infraestrutura de TI** e atualmente estou explorando o desenvolvimento de jogos com **Godot e GDScript**.
 
-🎮 Atualmente estou explorando o desenvolvimento de jogos com Godot e GDScript.
-
-🤖 Também tenho interesse em inteligência artificial e novas tecnologias.
-
-🌱 Estou sempre buscando aprender coisas novas e transformar conhecimento em projetos.
+Meu objetivo é evoluir continuamente na área da tecnologia, expandir meus conhecimentos e transformar ideias em soluções e projetos.
 
 ---
 
@@ -79,7 +75,7 @@ Olá! Sou o Bruno, de São Paulo, SP.
 
 <div align="center">
 
-### ✨ "Todo grande projeto começa com o primeiro passo."
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=FF4B4B&center=true&vCenter=true&width=650&height=50&lines=Todo+grande+projeto+come%C3%A7a+com+o+primeiro+passo.;Sempre+aprendendo%2C+sempre+evoluindo.;Transformando+ideias+em+projetos." alt="Frases motivacionais"/>
 
 </div>
 
